@@ -1,0 +1,4 @@
+this is a simple web design for upload a image on server and see the images of all persen whom connected to the server.
+
+  
+  
